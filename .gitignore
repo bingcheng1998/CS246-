@@ -1,0 +1,9 @@
+
+*/.DS_Store
+.DS_Store
+*.zip
+data/
+Lectures/*.pdf
+References/
+*.docx
+*.webloc

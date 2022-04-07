@@ -1,0 +1,2 @@
+wget -i Readings.txt
+
